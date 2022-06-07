@@ -130,5 +130,3 @@ def main():
 ---
 
 ## Image
-
-![VAS vs PAS](media/vas-pas.png)
